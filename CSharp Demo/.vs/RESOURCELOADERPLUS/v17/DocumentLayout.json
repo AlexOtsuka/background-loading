@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\BackgroundLoading\\CSharp Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A674DF52-D621-4E1A-874F-71B41D304E2C}|ResourceLoaderPlus.csproj|f:\\backgroundloading\\csharp demo\\backgroundloading\\backgroundloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A674DF52-D621-4E1A-874F-71B41D304E2C}|ResourceLoaderPlus.csproj|solutionrelative:backgroundloading\\backgroundloading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A674DF52-D621-4E1A-874F-71B41D304E2C}|ResourceLoaderPlus.csproj|f:\\backgroundloading\\csharp demo\\loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A674DF52-D621-4E1A-874F-71B41D304E2C}|ResourceLoaderPlus.csproj|solutionrelative:loader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Loader.cs",
+              "DocumentMoniker": "F:\\BackgroundLoading\\CSharp Demo\\Loader.cs",
+              "RelativeDocumentMoniker": "Loader.cs",
+              "ToolTip": "F:\\BackgroundLoading\\CSharp Demo\\Loader.cs",
+              "RelativeToolTip": "Loader.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:51:21.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackgroundLoading.cs",
+              "DocumentMoniker": "F:\\BackgroundLoading\\CSharp Demo\\BackgroundLoading\\BackgroundLoading.cs",
+              "RelativeDocumentMoniker": "BackgroundLoading\\BackgroundLoading.cs",
+              "ToolTip": "F:\\BackgroundLoading\\CSharp Demo\\BackgroundLoading\\BackgroundLoading.cs",
+              "RelativeToolTip": "BackgroundLoading\\BackgroundLoading.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T03:06:58.844Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
